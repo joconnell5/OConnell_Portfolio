@@ -18,16 +18,16 @@ I Graduated from St.Mary's High School and am a current student at Loyola Univer
 ### Projects
 
 #### Project 1 Title
- - Project 1 Summary
+ - This project was a side hustle inventory and profit calculator I made in Excel. The table shows the quantity of items as well as their profit and whether their profit margin should be increased or not.
  - [insert project 1 screenshot here]
  - Project 1 Report
 ***
 #### Project 2 Title
- - Project 2 Summary
+ - This project was a side hustle inventory and profit calculator I made in Excel. The table shows the quantity of items as well as their profit and whether their profit margin should be increased or not.
  - [insert project 2 screenshot here]
  - Project 2 Report
 ***
 #### Project 3 Title
- - Project 3 Summary
+ - This project is a biweekly time sheet that keeps track of hours worked during the week at a job. 
  - [insert project 3 screenshot here]
  - Project 3 Report
