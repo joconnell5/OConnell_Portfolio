@@ -15,6 +15,8 @@ You can email me at joconnell5@loyola.edu.
 ### Education 
 I Graduated from St.Mary's High School and am a current student at Loyola University Maryland.
 
+![backgroundimage](/images/background_image.jpg)
+
 ### Projects
 
 #### Course Grade Calculator
