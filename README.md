@@ -1,9 +1,10 @@
-![backgroundimage](/images/background_image.jpg)
-
 # OConnell_Portfolio
 This is a portfolio for John O'Connell
 # John OConnell
 Contact Info: John O'Connell Joconnell5@loyola.edu
+
+![backgroundimage](/images/background_image.jpg)
+
 ### About Me 
 Hello! I am an experienced student with over 4 years of proven expertise in communications and digital media. 
 
