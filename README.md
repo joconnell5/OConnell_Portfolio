@@ -19,7 +19,7 @@ I Graduated from St.Mary's High School and am a current student at Loyola Univer
 
 #### Course Grade Calculator
  - This project is a grade calculator in Microsoft excel. This grade calculator allows the user to enter a set of grades as well as their designated weight to calculate the overall grade in the class. The calculator provides the letter grade as well as a graph displaying the data.
- - [insert project 1 screenshot here]
+![screenshot1](/images/screenshot1.png)
  - Initial project idea: 
 The problem I set out to solve with this project was having to manually calculate your grade in a class. This was a problem that needed to be solved because manually calculating to figure out your grade in individual classes is a lengthy process and more work than it has to be. 
  - Tools I used: 
@@ -33,7 +33,7 @@ I set out to make a chart where I would be able to input grades for a class and 
 
 #### Side Hustle Inventory Calculator
  - This project was a side hustle inventory and profit calculator I made in Excel. The table shows the quantity of items as well as their profit and whether their profit margin should be increased or not.
- - [insert project 2 screenshot here]
+![screenshot2](/images/screenshot2.png)
  - Initial project idea: 
 The problem I set out to solve was determining whether items in my inventory should have their profit margin increased or not. This was a problem that needed to be solved because it’s important for a business to know whether an item is being sold at the right price.
  - Tools I used: 
@@ -49,7 +49,7 @@ I set out to create a table showing the inventory of products in a business, as 
 
 #### BiWeekly Time Sheet
  - This project is a biweekly time sheet that keeps track of hours worked during the week at a job. 
-![screenshot1](/images/screenshot3.png)
+![screenshot3](/images/screenshot3.png)
  - Initial project idea:  
 The problem I set out to solve was to organize and manage my time. This was a problem that needed to be solved because it’s important to have time management, especially when working a job. 
  - Tools I used: 
