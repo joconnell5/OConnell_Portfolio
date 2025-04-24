@@ -49,7 +49,7 @@ I set out to create a table showing the inventory of products in a business, as 
 
 #### BiWeekly Time Sheet
  - This project is a biweekly time sheet that keeps track of hours worked during the week at a job. 
- - [insert project 3 screenshot here]
+![screenshot1](/images/screenshot3.png)
  - Initial project idea:  
 The problem I set out to solve was to organize and manage my time. This was a problem that needed to be solved because it’s important to have time management, especially when working a job. 
  - Tools I used: 
